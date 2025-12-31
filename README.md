@@ -70,17 +70,7 @@ Currently sharpening my full-stack skills and preparing for junior developer rol
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyMazhar&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyMazhar&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyMazhar" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?onlyMazhar=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
