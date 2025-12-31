@@ -73,7 +73,7 @@ Currently sharpening my full-stack skills and preparing for junior developer rol
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=onlyMazhar" alt="GitHub Streak Stats" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=onlyMazhar)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=onlyMazhar" alt="GitHub Streak" /></a>
 
 
 
