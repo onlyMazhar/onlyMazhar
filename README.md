@@ -2,7 +2,7 @@
 <!-- Banner Section -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mazharul&fontAlign=50&fontAlignY=40&color=gradient" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Developer Banner" width="100%"  />
 </p>
 
 ---
