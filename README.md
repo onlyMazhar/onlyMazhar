@@ -70,7 +70,7 @@ Currently sharpening my full-stack skills and preparing for junior developer rol
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?onlyMazhar=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=onlyMazhar)](https://git.io/streak-stats)
 
 ---
 
