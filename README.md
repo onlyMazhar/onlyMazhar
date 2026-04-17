@@ -12,25 +12,20 @@
 
 <br/>
 
-###
-
-
-# About Me:
 As a MERN Stack developer i am skilled in building modern web application <br/>
 Using React.js, Express.js, Node.js(JavaScript runtime) and MongoDB as databse. <br/>
 I like to build projects that solves real life problem and making peoples life better.
 Currently i am diving deeper and on Node.JS and MondoDB.
 
- <br/>
+<br/>
 
-##   Current Activities
 - Exploring **Next.js** and modern React patterns  
 - Practicing **Data Structures & Algorithms (DSA)**  
 - Building **real-life problem solving projects**  
 - Preparing for **junior developer interviews**
 
 
- <br/>
+<br/>
  
 
 # Languages & Tools
@@ -127,36 +122,30 @@ Currently i am diving deeper and on Node.JS and MondoDB.
   <tr>
     <td align="center" width="150">
       <a href="https://github.com/onlyMazhar">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
       </a>
       <br>GitHub
     </td>
     <td align="center" width="150">
       <a href="https://www.linkedin.com/in/onlymazhar/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
       </a>
       <br>LinkedIn
     </td>
     <td align="center" width="150">
       <a href="mailto:only.mazharul.islam@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/>
       </a>
       <br>Email
     </td>
   </tr>
 </table>
 
- 
-
- <br/>
-
-# GitHub Stats
+<br/>
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=zahid-official&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
-
-###
 
  
