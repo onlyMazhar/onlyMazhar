@@ -121,19 +121,19 @@ Currently i am diving deeper and on Node.JS and MondoDB.
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/onlyMazhar">
+      <a href="https://github.com/onlyMazhar" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
       </a>
       <br>GitHub
     </td>
     <td align="center" width="150">
-      <a href="https://www.linkedin.com/in/onlymazhar/">
+      <a href="https://www.linkedin.com/in/onlymazhar/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
       </a>
       <br>LinkedIn
     </td>
     <td align="center" width="150">
-      <a href="mailto:only.mazharul.islam@gmail.com">
+      <a href="mailto:only.mazharul.islam@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/>
       </a>
       <br>Email
