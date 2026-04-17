@@ -33,7 +33,6 @@ Currently i am diving deeper and on Node.JS and MondoDB.
  <br/>
  
 
-##   Skills & Technologies
 # Languages & Tools
 
 <table align="center">
