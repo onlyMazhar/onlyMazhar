@@ -121,7 +121,7 @@ Currently i am diving deeper and on Node.JS and MondoDB.
 <br/>
  
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <table align="center">
   <tr>
