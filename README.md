@@ -78,11 +78,9 @@ Currently i am diving deeper and on Node.JS and MondoDB.
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyMazhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=onlyMazhar&theme=github_dark&hide_border=true" height="150"  />
- 
-</div>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=zahid-official&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
 
 ###
