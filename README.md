@@ -144,8 +144,8 @@ Currently i am diving deeper and on Node.JS and MondoDB.
 <br/>
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=zahid-official&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=onlymazhar&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
-
- 
+<!-- ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onlymazhar&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false) -->
+  
