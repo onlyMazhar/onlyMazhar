@@ -1,7 +1,7 @@
 
 <!-- Banner Section -->
 <!-- ===================== -->
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9100%-083f1b00d6c9.gif" 
   alt="Mazharul Islam"
   style="width: 100%; height: 50%;"
 />
@@ -32,83 +32,83 @@ Currently i am diving deeper and on Node.JS and MondoDB.
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
-      <br>HTML
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
-      <br>CSS
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
-      <br>JavaScript (ES6)
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
-      <br>React
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
-      <br>Next.js
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
-      <br>Tailwind
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://i.imgur.com/4TLI18u.png" width="48" height="48"/>
-      <br>Shadcn
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/>
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
-      <br>Linux
+    <td align="center" width="100">
+      <img src="https://i.imgur.com/4TLI18u.png" width="100" height="100"/>
+      <br> 
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
-      <br>VS Code
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/>
-      <br>Postman
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="100" height="100"/>
+      <br> 
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="100" height="100"/>
+      <br>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase" width="100" height="100"/>
+      <br> 
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="100" height="100"/>
+      <br> 
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
+      <br> 
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="100" height="100"/>
+      <br> 
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="100" height="100"/>
+      <br> 
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="100" height="100"/>
+      <br> 
+    </td>
+    <td align="center" width="100">
       <img src="https://img.shields.io/badge/cPanel-WHM-orange?style=for-the-badge" />
-      <br>cPanel / WHM
+      <br> 
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
-      <br>Webuzo
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="100" height="100"/>
+      <br> 
     </td>
   </tr>
 </table>
@@ -120,23 +120,22 @@ Currently i am diving deeper and on Node.JS and MondoDB.
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="100%">
       <a href="https://github.com/onlyMazhar" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
       </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="150">
+      <br> 
+    <td align="center" width="100%">
       <a href="https://www.linkedin.com/in/onlymazhar/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" width="100" height="100"/>
       </a>
-      <br>LinkedIn
+      <br> 
     </td>
-    <td align="center" width="150">
+    <td align="center" width="100%">
       <a href="mailto:only.mazharul.islam@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=gmail" width="100" height="100"/>
       </a>
-      <br>Email
+      <br> 
     </td>
   </tr>
 </table>
