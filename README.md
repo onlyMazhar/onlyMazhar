@@ -27,8 +27,7 @@ Currently i am diving deeper and on Node.JS and MondoDB.
 
 <br/>
  
-
-# Languages & Tools
+<h2>Languages</h3>
 
 <table align="center">
   <tr>
@@ -60,10 +59,7 @@ Currently i am diving deeper and on Node.JS and MondoDB.
       <img src="https://i.imgur.com/4TLI18u.png" width="100" height="100"/>
       <br> 
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
+     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="100" height="100"/>
       <br> 
     </td>
@@ -79,10 +75,14 @@ Currently i am diving deeper and on Node.JS and MondoDB.
       <img src="https://skillicons.dev/icons?i=firebase" width="100" height="100"/>
       <br> 
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="100" height="100"/>
-      <br> 
-    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>Tools</h3>
+ <table>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
       <br> 
@@ -91,9 +91,6 @@ Currently i am diving deeper and on Node.JS and MondoDB.
       <img src="https://skillicons.dev/icons?i=linux" width="100" height="100"/>
       <br> 
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vscode" width="100" height="100"/>
       <br> 
@@ -106,15 +103,9 @@ Currently i am diving deeper and on Node.JS and MondoDB.
       <img src="https://img.shields.io/badge/cPanel-WHM-orange?style=for-the-badge" />
       <br> 
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="100" height="100"/>
-      <br> 
-    </td>
+   
   </tr>
-</table>
-
-<br/>
- 
+ </table>
 
 # Connect With Me
 
